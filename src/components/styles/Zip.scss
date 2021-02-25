@@ -1,0 +1,26 @@
+.zipDiv {
+    padding-right: 13em;
+
+    #zipCodeLabel {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+}
+
+#zipCodeInput {
+    width: 100px;
+}
+
+#zipCodeButton {
+    padding: 0 40px;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: bold;
+    font-size: 12px;
+    outline: none;
+    height: 30px;
+    color: rgb(58, 58, 58);
+    background-color: #aaa;
+    background: #aaa -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255,255,255,.75)), to(rgba(255,255,255,0)));
+}
